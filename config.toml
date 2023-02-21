@@ -1,6 +1,6 @@
-languageCode = "en-us"
+languageCode = "tr-tr"
 title = "Cupper"
-baseURL = "https://thepaciellogroup.github.io/cupper/"
+baseURL = "https://kuzgunertugrul.com/"
 canonifyURLs = true
 theme = "cupper"
 publishDir = "docs"
