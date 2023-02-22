@@ -2,7 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kuzgunertugrul.com/patterns/coding/code-blocks/</loc>
+    <loc>https://kuzgunertugrul.com/patterns/about-me/</loc>
+  </url><url>
+    <loc>https://kuzgunertugrul.com/patterns/contact-me/</loc>
   </url><url>
     <loc>https://kuzgunertugrul.com/print-version/</loc>
     <lastmod>2017-07-29T22:48:43+01:00</lastmod>

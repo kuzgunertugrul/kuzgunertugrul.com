@@ -1,7 +1,12 @@
 +++
 date = "2017-06-26T18:27:58+01:00"
-title = "erto's blog"
+title = "root"
 +++
 
-Welcome to **erto'ss blog**
+{{<cmd>}} 
 
+sudo su 
+
+{{</cmd>}}
+
+{{<youtube Sg14jNbBb-8>}}

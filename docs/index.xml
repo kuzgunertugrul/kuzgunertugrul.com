@@ -1,22 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>erto&#39;s blog</title>
+    <title>root on erto&#39;s blog</title>
     <link>https://kuzgunertugrul.com/</link>
-    <description>Recent content on erto&#39;s blog</description>
+    <description>Recent content in root on erto&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-tr</language>
     <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://kuzgunertugrul.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Code blocks</title>
-      <link>https://kuzgunertugrul.com/patterns/coding/code-blocks/</link>
+      <title>about me</title>
+      <link>https://kuzgunertugrul.com/patterns/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kuzgunertugrul.com/patterns/coding/code-blocks/</guid>
-      <description>Markdown already supports code samples both inline (using single backticks like `some code here`) and in blocks. Cupper will syntax highlight HTML, CSS, and JavaScript if you provide the correct language in the formulation of the block.
-So, this…
-```html&amp;lt;button aria-pressed=&#34;false&#34;&gt;toggle me&amp;lt;/button&gt;```… will result in this:
-&amp;lt;button aria-pressed=&amp;#34;false&amp;#34;&amp;gt;toggle me&amp;lt;/button&amp;gt; Note that the syntax highlighting uses a greyscale theme. Cupper is careful not to use color as part of its own design, because these colors may clash with those of the design being illustrated and discussed.</description>
+      <guid>https://kuzgunertugrul.com/patterns/about-me/</guid>
+      <description>ertuğrul kuzgun aka deimyon :)
+application security penetration testing security research information security vulnerability scanning &amp;amp; assessment web app development security engineer if you want to contact me, use the contact-me page.</description>
+    </item>
+    
+    <item>
+      <title>contact me</title>
+      <link>https://kuzgunertugrul.com/patterns/contact-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kuzgunertugrul.com/patterns/contact-me/</guid>
+      <description>linkedin: ertuğrul kuzgun
+telegram: t.me/deimyon
+discord: deimyon#7096
+e-mail: mail@kuzgunertugrul.com
+github: kuzgunertugrul</description>
     </item>
     
     <item>
